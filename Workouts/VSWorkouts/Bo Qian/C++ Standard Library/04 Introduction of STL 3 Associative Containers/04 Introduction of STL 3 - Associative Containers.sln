@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 Introduction of STL 3 - Associative Containers", "04 Introduction of STL 3 - Associative Containers.vcxproj", "{90B97327-8A68-4839-992B-60FFB519547B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B97327-8A68-4839-992B-60FFB519547B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90B97327-8A68-4839-992B-60FFB519547B}.Debug|Win32.Build.0 = Debug|Win32
+		{90B97327-8A68-4839-992B-60FFB519547B}.Release|Win32.ActiveCfg = Release|Win32
+		{90B97327-8A68-4839-992B-60FFB519547B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

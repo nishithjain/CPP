@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19 C++ 11 Library Tuple", "19 C++ 11 Library Tuple.vcxproj", "{6BC5296A-A4C6-45C1-BE2C-744451E71035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC5296A-A4C6-45C1-BE2C-744451E71035}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BC5296A-A4C6-45C1-BE2C-744451E71035}.Debug|Win32.Build.0 = Debug|Win32
+		{6BC5296A-A4C6-45C1-BE2C-744451E71035}.Release|Win32.ActiveCfg = Release|Win32
+		{6BC5296A-A4C6-45C1-BE2C-744451E71035}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

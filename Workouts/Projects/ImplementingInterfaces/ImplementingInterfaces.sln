@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImplementingInterfaces", "ImplementingInterfaces\ImplementingInterfaces.vcxproj", "{2381CE47-BC62-47BB-82D9-62439E71C8FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AllInterfaceHeaders", "AllInterfaceHeaders\AllInterfaceHeaders.vcxproj", "{D39CD339-DBA2-458B-B626-F74B0D25EDDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarClasses", "CarClasses\CarClasses.vcxproj", "{F4413DF8-4008-4D3D-83AB-1EB2C1B54E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2381CE47-BC62-47BB-82D9-62439E71C8FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2381CE47-BC62-47BB-82D9-62439E71C8FD}.Debug|Win32.Build.0 = Debug|Win32
+		{2381CE47-BC62-47BB-82D9-62439E71C8FD}.Release|Win32.ActiveCfg = Release|Win32
+		{2381CE47-BC62-47BB-82D9-62439E71C8FD}.Release|Win32.Build.0 = Release|Win32
+		{D39CD339-DBA2-458B-B626-F74B0D25EDDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D39CD339-DBA2-458B-B626-F74B0D25EDDA}.Debug|Win32.Build.0 = Debug|Win32
+		{D39CD339-DBA2-458B-B626-F74B0D25EDDA}.Release|Win32.ActiveCfg = Release|Win32
+		{D39CD339-DBA2-458B-B626-F74B0D25EDDA}.Release|Win32.Build.0 = Release|Win32
+		{F4413DF8-4008-4D3D-83AB-1EB2C1B54E12}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4413DF8-4008-4D3D-83AB-1EB2C1B54E12}.Debug|Win32.Build.0 = Debug|Win32
+		{F4413DF8-4008-4D3D-83AB-1EB2C1B54E12}.Release|Win32.ActiveCfg = Release|Win32
+		{F4413DF8-4008-4D3D-83AB-1EB2C1B54E12}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

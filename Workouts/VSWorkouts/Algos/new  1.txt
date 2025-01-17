@@ -1,0 +1,18 @@
+45n^3 + 20n^2 + 19 = 84 		if(n==1)
+45n^3 + 20n^2 + 19 = 459		if(n==2)
+- The last term 19 is negligible.
+45n^3 + 20n^2 + 19 = 47,019		if(n==10)
+- Definitely last term can be neglected.
+- Here the middle term 20n^2 is negligible if 45n^3 == 45000 and also note that we are still dealing with small number of items (n==10). 
+- But as the value of n grows, and if we analysie the same way, we say the in the term 45n^3, 45 also doesn't matter. The only thing that matters is the term n^3!!!
+- We say that the algorithm has an order of O(n^3)
+
+O(1) - means, no matter how much big the data is, it will take the same amount of time to work.
+
+O(n) - Time to complete exactly depends directly on n
+O(n^2) - Time it takes to complete depends on the square of the amount of data.
+
+O( n log n) - Quick sort is more efficient.
+Comparisons = log n!
+Comparisons = log n + log (n-1)...log(1)
+Comparisons = n log n

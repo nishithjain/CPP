@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19 C++ Stream 3 - Formatted and Unformatted IO", "19 C++ Stream 3 - Formatted and Unformatted IO.vcxproj", "{989A618F-B97F-4BF6-822F-ECC3ED41AFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989A618F-B97F-4BF6-822F-ECC3ED41AFA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{989A618F-B97F-4BF6-822F-ECC3ED41AFA1}.Debug|Win32.Build.0 = Debug|Win32
+		{989A618F-B97F-4BF6-822F-ECC3ED41AFA1}.Release|Win32.ActiveCfg = Release|Win32
+		{989A618F-B97F-4BF6-822F-ECC3ED41AFA1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

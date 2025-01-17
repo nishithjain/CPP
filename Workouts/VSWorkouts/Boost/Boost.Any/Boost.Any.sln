@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boost.Any", "Boost.Any.vcxproj", "{957C2427-1CBF-4338-A630-770442234D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957C2427-1CBF-4338-A630-770442234D9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{957C2427-1CBF-4338-A630-770442234D9E}.Debug|Win32.Build.0 = Debug|Win32
+		{957C2427-1CBF-4338-A630-770442234D9E}.Release|Win32.ActiveCfg = Release|Win32
+		{957C2427-1CBF-4338-A630-770442234D9E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,81 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build files
+*.obj
+*.dll
+*.exe
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.o
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vcxproj.user
+*.filters
+*.log
+*.idb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore Qt specific files
+*.qrc
+*.ui
+moc_*
+qrc_*
+ui_*
+
+# Ignore IDE specific settings
+*.vs/
+*.vscode/
+*.idea/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.cache
+*.pyc
+*.pyo
+*.log
+*.env
+*.lock
+*.ncb
+*.obj
+*.build
+
+# Ignore release and debug folders
+**/Release/
+**/Debug/
+**/x64/
+**/bin/
+**/obj/
+**/out/
+
+# Ignore zip files and archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.rar
+
+# Ignore generated diagrams
+*.cd
+
+# Ignore documentation binaries
+*.pdf
+
+# Ignore Excel tracking files
+*.xlsx
+
+# Ignore specific patterns inside Notes if needed
+**/Notes/*.tmp
+**/Notes/~$*
