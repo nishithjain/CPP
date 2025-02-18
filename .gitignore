@@ -70,9 +70,6 @@ ui_*
 # Ignore generated diagrams
 *.cd
 
-# Ignore documentation binaries
-*.pdf
-
 # Ignore Excel tracking files
 *.xlsx
 
